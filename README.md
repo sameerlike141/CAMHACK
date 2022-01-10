@@ -45,5 +45,4 @@ bash camhack.sh
 <p><b>Version: 1.5:</b> Add new online meeting template</p>
 <p><b>Version: 1.4:</b> Ngrok authtoken update</p>
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
-#This tool has been created by Bilal Ali.. [YOUNGEST CYBER SECURITY EXPERT |CERTIFIED ETHICAL HACKER]
-PHONE NUMBER +923164822762
+
