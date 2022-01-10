@@ -21,7 +21,10 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
   <li>Ubuntu</li>
   <li>Perrot Sec OS</li>
 </ul>
+#LINK CREATING ERROR /NGROK ERROR
 
+Used this Command for solved problem
+bash fix.sh
 # Installing and requirements
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
